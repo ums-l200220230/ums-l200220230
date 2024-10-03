@@ -69,3 +69,5 @@
 ###
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/RizkytheMagicalCheeseWizard/RizkytheMagicalCheeseWizard/output/snake.svg" alt="Snake animation" />
