@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **E-commerce website for my assigment**
 
-- 🌱 I’m currently learning **Framework Laravel, Framework Next.js**
+- 🌱 I’m currently learning **Laravel Framework, Next.js Framework**
 
 - 📫 How to reach me **rizkyzky345@gmail.com**
 
