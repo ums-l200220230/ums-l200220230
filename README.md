@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=RizkytheMagicalCheeseWizard&theme=git-dark&" alt="rizkythemagicalcheesewizard" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=rizkythemagicalcheesewizard&show_icons=true&locale=en" alt="rizkythemagicalcheesewizard" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=rizkythemagicalcheesewizard&show_icons=true&locale=en&theme=codeSTACKr" alt="rizkythemagicalcheesewizard" /></p>
 
 
 
