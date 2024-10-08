@@ -32,6 +32,6 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=rizkythemagicalcheesewizard&show_icons=true&locale=en" alt="rizkythemagicalcheesewizard" /></p>
 
-<p>&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizkythemagicalcheesewizard&show_icons=true&locale=en&layout=compact" alt="rizkythemagicalcheesewizard" /></p>
+<p &nbsp><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizkythemagicalcheesewizard&show_icons=true&locale=en&layout=compact" alt="rizkythemagicalcheesewizard" /></p>
 
 <img src="https://raw.githubusercontent.com/RizkytheMagicalCheeseWizard/RizkytheMagicalCheeseWizard/output/snake.svg" alt="Snake animation" />
