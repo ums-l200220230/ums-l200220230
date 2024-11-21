@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/hanyainginuang" target="blank"><img src="https://img.shields.io/twitter/follow/hanyainginuang?logo=twitter&style=for-the-badge" alt="hanyainginuang" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce website for my assigment**
+- 🔭 I’m currently working on **Music website for my assigment**
 
 - 🌱 I’m currently learning **Laravel Framework, Next.js Framework**
 
 - 📫 How to reach me **rizkyzky345@gmail.com**
 
-- ⚡ Fun fact **i'm not weeb 😡**
+- ⚡ Fun fact **i'm not weeb 😡 and i don't have girlfriend 😔**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
