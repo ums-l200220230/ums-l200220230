@@ -20,7 +20,7 @@
 <a href="https://twitter.com/hanyainginuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="justrizky" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rizky maulana saputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizky maulana saputra" height="30" width="40" /></a>
 <a href="https://kaggle.com/miiaaww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="miiaaww" height="30" width="40" /></a>
-<a href="https://instagram.com/rzky._mauln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rzky._mauln" height="30" width="40" /></a>
+<a href="https://instagram.com/rizzkymlana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizzkymlana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
