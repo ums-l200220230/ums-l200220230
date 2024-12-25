@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rizkyzky345@gmail.com**
 
-- ⚡ Fun fact **i'm not weeb 😡 and i don't have girlfriend 😔**
+- ⚡ Fun fact **i'm not weeb 😡 and i'm a chill guy 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
