@@ -7,20 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/hanyainginuang" target="blank"><img src="https://img.shields.io/twitter/follow/hanyainginuang?logo=twitter&style=for-the-badge" alt="hanyainginuang" /></a> </p>
 
-- 🔭 I’m currently working on **Music website for my assigment**
 
-- 🌱 I’m currently learning **Laravel Framework, Next.js Framework**
+- 🌱 I’m currently learning **Computer Vision and Machine Learning**
 
 - 📫 How to reach me **rizkyzky345@gmail.com**
 
-- ⚡ Fun fact **i'm not weeb 😡 and i'm a chill guy 😊**
+- ⚡ Fun fact **i'm a chill guy 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hanyainginuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="justrizky" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rizky maulana saputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizky maulana saputra" height="30" width="40" /></a>
 <a href="https://kaggle.com/miiaaww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="miiaaww" height="30" width="40" /></a>
-<a href="https://instagram.com/rizzkymlana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizzkymlana" height="30" width="40" /></a>
+<a href="https://instagram.com/rizkymlaana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizzkymlana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
