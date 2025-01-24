@@ -87,11 +87,11 @@
 </p>
 
 <p>
-<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RizkyMlana&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="rizkythemagicalcheesewizard" /> -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RizkyMlana&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="rizkythemagicalcheesewizard" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RizkyMlana&theme=git-dark&" alt="rizkythemagicalcheesewizard" />
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RizkyMlana&theme=git-dark&" alt="rizkythemagicalcheesewizard" /> -->
 </p>
 
 <p>
