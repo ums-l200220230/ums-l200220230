@@ -87,7 +87,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RizkyMlana&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="rizkythemagicalcheesewizard" />
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RizkyMlana&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="rizkythemagicalcheesewizard" /> -->
 </p>
 
 <p>
